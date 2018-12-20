@@ -1,0 +1,49 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "X/ezkFEECpsC9T8wf1m6jbJo3A4=",
+			"path": "github.com/boombuler/barcode",
+			"revision": "34fff276c74eba9c3506f0c6f4064dbaa67d8da3",
+			"revisionTime": "2018-08-09T05:23:37Z"
+		},
+		{
+			"checksumSHA1": "jWsoIeAcg4+QlCJLZ8jXHiJ5a3s=",
+			"path": "github.com/boombuler/barcode/qr",
+			"revision": "34fff276c74eba9c3506f0c6f4064dbaa67d8da3",
+			"revisionTime": "2018-08-09T05:23:37Z"
+		},
+		{
+			"checksumSHA1": "axe0OTdOjYa+XKDUYqzOv7FGaWo=",
+			"path": "github.com/boombuler/barcode/utils",
+			"revision": "34fff276c74eba9c3506f0c6f4064dbaa67d8da3",
+			"revisionTime": "2018-08-09T05:23:37Z"
+		},
+		{
+			"checksumSHA1": "QzajnjIq3OjjZ9SpXgbkHaN5Lzw=",
+			"path": "github.com/micro/cli",
+			"revision": "3d2263bb092286dde294a31049c92665f8373820",
+			"revisionTime": "2016-04-06T21:54:05Z"
+		},
+		{
+			"checksumSHA1": "vCogt04lbcE8fUgvRCOaZQUo+Pk=",
+			"path": "github.com/pquerna/otp",
+			"revision": "be78767b3e392ce45ea73444451022a6fc32ad0d",
+			"revisionTime": "2018-08-13T14:46:49Z"
+		},
+		{
+			"checksumSHA1": "Rpx/4T1X/tZgHG56AJ6G8nPk7Gw=",
+			"path": "github.com/pquerna/otp/hotp",
+			"revision": "be78767b3e392ce45ea73444451022a6fc32ad0d",
+			"revisionTime": "2018-08-13T14:46:49Z"
+		},
+		{
+			"checksumSHA1": "OvSOUZb554+cPpvBOK4kEjv2ZpE=",
+			"path": "github.com/pquerna/otp/totp",
+			"revision": "be78767b3e392ce45ea73444451022a6fc32ad0d",
+			"revisionTime": "2018-08-13T14:46:49Z"
+		}
+	],
+	"rootPath": "github.com/syhlion/totp-tool"
+}
